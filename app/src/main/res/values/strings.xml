@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Тестовое задание</string>
+    <integer name="com_vk_sdk_AppId">6395090</integer>
+</resources>
